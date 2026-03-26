@@ -66,7 +66,6 @@ projectstudent/
 ├── main.cpp
 
 ├── projectstudent.slnx
-
 └── README.md
 -----
 
